@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://marke1995.github.io/HouseDividedMain",
+  "homepage": "https://MarkE1995.github.io/HouseDividedMain",
   "private": true,
   "dependencies": {
     "@azure/msal-browser": "^3.10.0",
