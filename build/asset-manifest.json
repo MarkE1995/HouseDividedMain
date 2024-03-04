@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/House-Divided/static/css/main.c6af654e.css",
-    "main.js": "/House-Divided/static/js/main.35c6ad3a.js",
-    "static/media/football.jpg": "/House-Divided/static/media/football.60e9bb8acaaa30434817.jpg",
-    "static/media/Tier-List-Football.jpg": "/House-Divided/static/media/Tier-List-Football.0281b80622051efa8bed.jpg",
-    "static/media/Camera.jpg": "/House-Divided/static/media/Camera.f70ff74bc96df4e793e5.jpg",
-    "static/media/game-controller.jpg": "/House-Divided/static/media/game-controller.dee04997d470cdf27216.jpg",
-    "static/media/undraw_houses_re_uaq7.svg": "/House-Divided/static/media/undraw_houses_re_uaq7.4f98562e85993414b46a76cf394c3c7b.svg",
-    "index.html": "/House-Divided/index.html",
-    "main.c6af654e.css.map": "/House-Divided/static/css/main.c6af654e.css.map",
-    "main.35c6ad3a.js.map": "/House-Divided/static/js/main.35c6ad3a.js.map"
+    "main.css": "/House_Divided/static/css/main.c6af654e.css",
+    "main.js": "/House_Divided/static/js/main.70971134.js",
+    "static/media/football.jpg": "/House_Divided/static/media/football.60e9bb8acaaa30434817.jpg",
+    "static/media/Tier-List-Football.jpg": "/House_Divided/static/media/Tier-List-Football.0281b80622051efa8bed.jpg",
+    "static/media/Camera.jpg": "/House_Divided/static/media/Camera.f70ff74bc96df4e793e5.jpg",
+    "static/media/game-controller.jpg": "/House_Divided/static/media/game-controller.dee04997d470cdf27216.jpg",
+    "static/media/undraw_houses_re_uaq7.svg": "/House_Divided/static/media/undraw_houses_re_uaq7.4f98562e85993414b46a76cf394c3c7b.svg",
+    "index.html": "/House_Divided/index.html",
+    "main.c6af654e.css.map": "/House_Divided/static/css/main.c6af654e.css.map",
+    "main.70971134.js.map": "/House_Divided/static/js/main.70971134.js.map"
   },
   "entrypoints": [
     "static/css/main.c6af654e.css",
-    "static/js/main.35c6ad3a.js"
+    "static/js/main.70971134.js"
   ]
 }
