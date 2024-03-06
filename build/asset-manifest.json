@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/House_Divided/static/css/main.c6af654e.css",
-    "main.js": "/House_Divided/static/js/main.70971134.js",
+    "main.js": "/House_Divided/static/js/main.e5781567.js",
     "static/media/football.jpg": "/House_Divided/static/media/football.60e9bb8acaaa30434817.jpg",
     "static/media/Tier-List-Football.jpg": "/House_Divided/static/media/Tier-List-Football.0281b80622051efa8bed.jpg",
     "static/media/Camera.jpg": "/House_Divided/static/media/Camera.f70ff74bc96df4e793e5.jpg",
@@ -9,10 +9,10 @@
     "static/media/undraw_houses_re_uaq7.svg": "/House_Divided/static/media/undraw_houses_re_uaq7.4f98562e85993414b46a76cf394c3c7b.svg",
     "index.html": "/House_Divided/index.html",
     "main.c6af654e.css.map": "/House_Divided/static/css/main.c6af654e.css.map",
-    "main.70971134.js.map": "/House_Divided/static/js/main.70971134.js.map"
+    "main.e5781567.js.map": "/House_Divided/static/js/main.e5781567.js.map"
   },
   "entrypoints": [
     "static/css/main.c6af654e.css",
-    "static/js/main.70971134.js"
+    "static/js/main.e5781567.js"
   ]
 }

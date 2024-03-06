@@ -4,7 +4,7 @@ import Home from './routes/Home';
 import TierLists from "./routes/TierLists";
 import Project from './routes/Project';
 import Discussions from "./routes/Discussions";
-import { Route, Routes } from "react-router-dom";
+import {Route, Routes } from "react-router-dom";
 
 
 function App() {
